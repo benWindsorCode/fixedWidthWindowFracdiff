@@ -105,3 +105,6 @@ venv.bak/
 
 # Dont commit swp files
 *.swp
+
+# Dont commit .DS_Store
+.DS_Store
